@@ -1,1 +1,1 @@
-# go-tech-blog
+# omusubi-clone
